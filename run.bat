@@ -1,0 +1,1 @@
+java -jar target\AkkaSample-1.0-SNAPSHOT.jar 1 20
